@@ -22,7 +22,7 @@
 //console.log(area)
 
 
-const forma = 'triangulo';
+const forma = 'quadrado';
 const altura = 5;
 const comprimento = 7;
 let area;
